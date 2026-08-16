@@ -1,0 +1,10 @@
+duckduckgo_search==8.0.1
+Flask==3.1.0
+Markdown==3.8
+openai==1.76.0
+Pygments==2.19.1
+pyvis==0.3.2
+PyYAML==6.0.2
+PyYAML==6.0.2
+Requests==2.32.3
+tenacity==9.1.2
